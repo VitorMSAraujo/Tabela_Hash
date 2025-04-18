@@ -1,4 +1,3 @@
-// tabela_hash.h
 #ifndef TABELA_HASH_H
 #define TABELA_HASH_H
 

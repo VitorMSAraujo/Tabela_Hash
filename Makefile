@@ -1,5 +1,3 @@
-# Makefile para compilar tabela_hash.cpp, main.cpp e rodar com teste_hash.txt
-
 CXX       := g++
 CXXFLAGS  := -std=c++11 -O2 -Wall
 TARGET    := pratica_hash
