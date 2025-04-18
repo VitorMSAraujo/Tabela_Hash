@@ -1,0 +1,5 @@
+5
+I chave1 valor1
+I chave2 valor2
+G chave2
+G chave3
